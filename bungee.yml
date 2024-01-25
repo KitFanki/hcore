@@ -1,0 +1,13 @@
+name: HCore
+version: "10.4.2"
+main: ru.dehasher.hcore.proxy.bungee.HCore
+
+author: deHasher
+website: https://dehasher.ru/
+
+softDepends:
+    - LuckPerms
+    - LiteBans
+    - Spark
+
+# Список возможностей, команд, разрешений и заполнителей можно посмотреть тут: https://github.com/deHasher/HCore

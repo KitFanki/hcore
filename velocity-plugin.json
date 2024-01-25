@@ -1,0 +1,1 @@
+{"id":"hcore","name":"HCore","version":"10.4.2","url":"https://dehasher.ru/","authors":["deHasher"],"dependencies":[{"id":"luckperms","optional":true},{"id":"litebans","optional":true},{"id":"spark","optional":true}],"main":"ru.dehasher.hcore.proxy.velocity.HCore"}
